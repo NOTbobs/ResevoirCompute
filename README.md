@@ -8,3 +8,5 @@ Observation 1:
 
 "Pushing" trained layers with frozen weights into the resevoir using toy datasets can speed up convergence of new read-out networks, and can slightly improve accuracy. Pushing additional layers results in slight improvement of accuracy. 
 
+A very rudimentary method by which to train deep networks using gradient based optimization where the gradient does not need to be calculated for the entire network. 
+
