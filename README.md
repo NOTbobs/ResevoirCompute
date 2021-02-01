@@ -2,7 +2,7 @@
 Practice with dynamically growing compute resevoirs
 
 Personal Notes: 
-Resevoir Computing networks are networks with a set of neurons with randomized connections. Connections are recurrent or directed. During training the parameters of the resevoir are frozen. Data is inputted into the resevoir and undergoes various trainsformations that are deterministic. After the transformation by the resevoir a single 'read-out' network is trained to interpret the transformation and to map the output into a desired output. 
+Resevoir Computing networks are networks with a set of neurons with randomized connections. Connections are recurrent or directed. During training the parameters of the resevoir are frozen. Data is inputted into the resevoir and undergoes various trainsformations that are deterministic. After the transformation by the resevoir a single 'read-out' network is trained to interpret the transformation and to map the input into a desired output. 
 
 Observation 1: 
 
